@@ -1,3 +1,5 @@
 .cache
 mflix_env
 dotini_unix
+mflix/__pycache__
+mflix/api/__pycache__
